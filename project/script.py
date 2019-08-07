@@ -23,5 +23,5 @@ def o(a):
       Test black
     """
     x = 1 + 2
-    print(x)
+    print(x   )
     return x
