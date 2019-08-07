@@ -14,3 +14,14 @@ def foo(a, b):
         a + b
     """
     return a + b
+
+
+def o(a):
+    """
+    
+    Test black
+      Test black
+    """
+    x = 1 + 2
+    print(x)
+    return x
