@@ -35,4 +35,7 @@ def bar(j, k):
 
 
 def voila():
+    x = 2
+    if x > 5:
+        print("Test branch coverage")
     return "voila"

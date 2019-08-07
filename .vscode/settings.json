@@ -1,0 +1,33 @@
+{
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.pythonPath": "C:\\Users\\maxim\\Anaconda3\\envs\\project\\python.exe",
+    "python.testing.pyTestArgs": [
+        "tests"
+    ],
+    "python.testing.pyTestEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E203,E266,E501W503",
+        "--max-line-length=88",
+        "--max-complexity=18",
+        "--select=B,C,E,F,W,T4,B9"
+    ],
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": {
+            "when": "$(basename).py"
+        },
+        "**/.vscode": true,
+        "**/.pytest_cache": true,
+        "**/coverage_html_report": true,
+        ".coverage": true
+    },
+    "restructuredtext.linter.disabled": true,
+    "restructuredtext.confPath": "${workspaceFolder}\\docs\\source"
+}

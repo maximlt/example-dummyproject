@@ -1,6 +1,3 @@
-# VS Code
-settings.json
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
@@ -28,6 +25,8 @@ MANIFEST
 # Unit test / coverage reports
 .tox/
 .pytest_cache/
+coverage_html_report/
+.coverage
 
 # Sphinx documentation
 docs/build/
