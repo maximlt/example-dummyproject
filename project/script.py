@@ -16,12 +16,23 @@ def foo(a, b):
     return a + b
 
 
-def o(a):
-    """
+def bar(j, k):
+    """bar
 
-    Test black
-      Test black
+    Parameters
+    ----------
+    j : int
+        j
+    k : int
+        k
+
+    Returns
+    -------
+    int
+        substraction
     """
-    x = 1 + 2
-    print(x)
-    return x
+    return j - k
+
+
+def voila():
+    return "voila"
