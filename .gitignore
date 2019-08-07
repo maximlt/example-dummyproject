@@ -1,5 +1,4 @@
 # VS Code
-*.code-workspace
 settings.json
 
 # Byte-compiled / optimized / DLL files

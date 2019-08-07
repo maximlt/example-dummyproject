@@ -1,13 +1,13 @@
 def foo(a, b):
     """Foo
-    
+
     Parameters
     ----------
     a : str
         a
     b : str
         b
-    
+
     Returns
     -------
     str
@@ -18,10 +18,10 @@ def foo(a, b):
 
 def o(a):
     """
-    
+
     Test black
       Test black
     """
     x = 1 + 2
-    print(x   )
+    print(x)
     return x
