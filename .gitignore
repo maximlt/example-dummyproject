@@ -28,6 +28,7 @@ MANIFEST
 .pytest_cache/
 coverage_html_report/
 .coverage
+htmlcov/
 
 # Sphinx documentation
 docs/build/

@@ -25,8 +25,15 @@
         },
         "**/.vscode": true,
         "**/.pytest_cache": true,
+        "**/.coverage": true,
         "**/coverage_html_report": true,
-        ".coverage": true
+        "**/htmlcov": true,
+        ".coverage": true,
+        "**/dist": true,
+        "**/.tox": true,
+        "**/docs": true,
+        "**/notebooks": true,
+        "**/.ipynb_checkpoints": true,
     },
     "restructuredtext.linter.disabled": true,
     "restructuredtext.confPath": "${workspaceFolder}\\docs\\source"
