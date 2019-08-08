@@ -39,3 +39,7 @@ def voila():
     if x > 5:
         print("Test branch coverage")
     return "voila"
+
+
+def tag():
+    pass
