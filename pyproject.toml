@@ -9,6 +9,7 @@ author-email = "maximeliquet@free.fr"
 description-file = "README.md"
 home-page = "https://github.com/maximlt/project"
 classifiers = ["License :: OSI Approved :: MIT License"]
+dist-name="projectxyxyxy"
 
 [tool.flit.metadata.requires-extra]
 test = ["pytest", "pytest-cov", "tox"]
