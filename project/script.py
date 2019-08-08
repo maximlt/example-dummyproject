@@ -41,5 +41,5 @@ def voila():
     return "voila"
 
 
-def tag_2():
+def tag_3():
     pass
