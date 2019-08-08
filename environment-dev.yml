@@ -1,0 +1,11 @@
+name: project-dev
+channel_priority: strict
+channels:
+  - conda-forge
+dependencies:
+  - pytest=5.0.*
+  - pytest-cov=2.7.*
+  - tox=3.12.*
+  - sphinx=2.1.*
+  - sphinx_rtd_theme=0.4.*
+  - jupyterlab=1.0.*

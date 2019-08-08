@@ -1,0 +1,6 @@
+pytest=5.0.1
+pytest-cov=2.7.1
+tox=3.12.1
+sphinx=2.1.2
+sphinx_rtd_theme=0.4.3
+jupyterlab=1.0.4
