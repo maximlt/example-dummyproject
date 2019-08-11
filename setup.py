@@ -65,7 +65,11 @@ setup(
     python_requires=">=3.6",
     packages=["project"],
     include_package_data=True,
-    install_requires=[],
+    install_requires=["Click>=7.0"],
+    entry_points="""
+        [console_scripts]
+        calc=project:cli
+    """,
     extras_require={
         "dev": DEV_REQUIRE,
         "test": TEST_REQUIRE,
