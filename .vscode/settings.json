@@ -30,6 +30,7 @@
         "**/coverage_html_report": true,
         "**/htmlcov": true,
         ".coverage": true,
+        "**/build": true,
         "**/dist": true,
         "**/.tox": true,
         "**/docs": true,
