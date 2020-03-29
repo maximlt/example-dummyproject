@@ -6,4 +6,4 @@
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 </p>
 
-A dummy project to learn how to structure a Python library, Git it, document it, etc.
+A dummy project to learn how to set up a Python project, Git it, document it, etc. It served as a support to write this [Gist](https://gist.github.com/maximlt/629f89e2c6dddd688a23de9ea869de89).
