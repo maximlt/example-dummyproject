@@ -5,3 +5,5 @@
 <a href="https://github.com/psf/project/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 </p>
+
+A dummy project to learn how to structure a Python library, Git it, document it, etc.
